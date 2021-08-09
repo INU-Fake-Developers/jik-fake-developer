@@ -7,4 +7,5 @@
 > > > HELLO_WORLD
 > > > > HELLO_WORLD
 > > > > > HELLO_WORLD
-ㄴㅇㄹㅇㄴ
+
+https://watermelon-game-jik.netlify.app
